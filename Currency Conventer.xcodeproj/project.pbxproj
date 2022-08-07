@@ -60,25 +60,17 @@
 		ADD75A56289D65EC007C4CB1 /* Currency Conventer */ = {
 			isa = PBXGroup;
 			children = (
-				ADF25E1B289E9BD8007B60B5 /* View */,
+				ADD75A57289D65EC007C4CB1 /* AppDelegate.swift */,
+				ADD75A59289D65EC007C4CB1 /* SceneDelegate.swift */,
+				ADD75A5B289D65EC007C4CB1 /* ViewController.swift */,
+				ADF25E15289E82B2007B60B5 /* fromTableViewCell.swift */,
+				ADF25E17289E82C1007B60B5 /* toTableViewCell.swift */,
 				ADD75A5D289D65EC007C4CB1 /* Main.storyboard */,
 				ADD75A60289D65ED007C4CB1 /* Assets.xcassets */,
 				ADD75A62289D65ED007C4CB1 /* LaunchScreen.storyboard */,
 				ADD75A65289D65ED007C4CB1 /* Info.plist */,
 			);
 			path = "Currency Conventer";
-			sourceTree = "<group>";
-		};
-		ADF25E1B289E9BD8007B60B5 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				ADD75A57289D65EC007C4CB1 /* AppDelegate.swift */,
-				ADD75A59289D65EC007C4CB1 /* SceneDelegate.swift */,
-				ADD75A5B289D65EC007C4CB1 /* ViewController.swift */,
-				ADF25E15289E82B2007B60B5 /* fromTableViewCell.swift */,
-				ADF25E17289E82C1007B60B5 /* toTableViewCell.swift */,
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
